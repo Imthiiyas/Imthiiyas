@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Imthiiyas
+- 👀 I’m interested in Odoo Development
+- 🌱 I’m currently learning how to develop the modules in Odoo platform 
+- 📫 Reach out to me at imthiyas@gstech.com.sa
